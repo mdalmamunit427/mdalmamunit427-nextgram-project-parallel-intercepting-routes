@@ -5,7 +5,7 @@
 
 ### Prerequisites
 
-- Node.js (v14 or later)
+- Node.js (v15 or later)
 - npm or yarn
 
 ### Installation
